@@ -1,0 +1,11 @@
+capacitor/android/plugins/BuildConfig.java
+ capacitor.android.plugins.BuildConfig
+com/megster/cordova/BluetoothSerialService.java
+ com.megster.cordova.BluetoothSerialService
+ com.megster.cordova.BluetoothSerialService$AcceptThread
+ com.megster.cordova.BluetoothSerialService$ConnectThread
+ com.megster.cordova.BluetoothSerialService$ConnectedThread
+com/megster/cordova/BluetoothSerial.java
+ com.megster.cordova.BluetoothSerial
+ com.megster.cordova.BluetoothSerial$1
+ com.megster.cordova.BluetoothSerial$2
